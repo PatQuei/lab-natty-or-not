@@ -17,7 +17,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "HeyGen" foi ess
 ## 🚀 Resultados
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://github.com/PatQuei/lab-natty-or-not/blob/main/0611(1).mp4)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
